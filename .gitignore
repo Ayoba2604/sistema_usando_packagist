@@ -1,0 +1,8 @@
+/vendor/
+/storage/*.pdf
+/storage/*.png
+/composer.phar
+/composer-setup.php
+/.env
+
+.vercel
