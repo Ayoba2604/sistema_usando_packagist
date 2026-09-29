@@ -1,6 +1,6 @@
 # Sistema de Documentos PHP
 
-## Memobras
+## Membros
 
 - Alan Nunes Costa Ferreira
 - João Felipe Dos Santos Miranda
