@@ -1,5 +1,11 @@
 # Sistema de Documentos PHP
 
+## Memobras
+
+- Alan Nunes Costa Ferreira
+- João Felipe Dos Santos Miranda
+- Lara Dos Reis Botin
+
 Aplicacao demonstrativa que utiliza tres pacotes do Packagist:
 
 - `dompdf/dompdf`: cria o comprovante em PDF;
